@@ -1,5 +1,3 @@
-<img width="4185" height="129" alt="Enterprise CCM Communication Lifecycle" src="https://github.com/user-attachments/assets/107f4b34-143c-497f-bc13-7122fdd51dfb" /># exstream-cloud-native-workflows
-
 # 📌 Overview
 
 This repository documents enterprise CCM (Customer Communications Management) workflows, OpenText Exstream architecture, cloud-native communication processing, orchestration concepts, Empower creation & fulfillment workflows, and operational lifecycle management.
