@@ -4,6 +4,10 @@ This repository documents enterprise CCM (Customer Communications Management) wo
 
 It provides a structured understanding of how enterprise communication platforms operate across server-based and cloud-native environments using OpenText Exstream technologies.
 
+This repository is also based on my practical exposure to OpenText Exstream environments, including Exstream Design Manager, Exstream Designer, document composition workflows, output generation processing, workflow troubleshooting, and cloud-native CCM operational concepts.
+
+Using my enterprise CCM knowledge and operational experience, I designed and documented structured workflow architectures to simplify and visually represent complex communication processing systems in understandable manner.
+
 The repository focuses on:
 - Enterprise communication lifecycle
 - Exstream Design Manager workflows
