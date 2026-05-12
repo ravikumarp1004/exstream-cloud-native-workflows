@@ -1,4 +1,4 @@
-# exstream-cloud-native-workflows
+<img width="4185" height="129" alt="Enterprise CCM Communication Lifecycle" src="https://github.com/user-attachments/assets/107f4b34-143c-497f-bc13-7122fdd51dfb" /># exstream-cloud-native-workflows
 
 # 📌 Overview
 
@@ -68,11 +68,15 @@ The repository explains:
 - Communication Delivery Channels
 - Monitoring & Operational Support
 ---
+
 # 🧩 Enterprise CCM Communication Lifecycle
 This workflow represents the end-to-end lifecycle of enterprise customer communication processing from business applications to final archive and tracking.
-<img width="4185" height="129" alt="Enterprise CCM Communication Lifecycle" src="https://github.com/user-attachments/assets/a402b03a-f98d-424b-9008-37d562730a02" />
+
+<img width="4185" height="129" alt="Enterprise CCM Communication Lifecycle" src="https://github.com/user-attachments/assets/0b776ab3-428d-4402-ab1b-40a50d39ab6e" />
+
 ---
-🏗 OpenText Exstream Design Manager & Designer Workflow
+
+# 🏗 OpenText Exstream Design Manager & Designer Workflow
 This workflow demonstrates how enterprise communication templates are designed, managed, versioned, composed, and deployed using OpenText Exstream Design Manager and Designer tools.
 
 The workflow covers:
@@ -86,7 +90,9 @@ The workflow covers:
 - output generation
 
 <img width="8916" height="269" alt="OpenText Exstream Design Manager   Designer Workflow" src="https://github.com/user-attachments/assets/f4b5e1e2-1a06-4740-8f23-111a34cb67ff" />
+
 ---
+
 # ☁ Enterprise CCM Workflow using OpenText Exstream and Cloud-Native Platforms
 This architecture demonstrates how enterprise CCM platforms operate across multi-cloud environments using orchestration, composition engines, output processing, delivery channels, and operational monitoring.
 
@@ -101,7 +107,9 @@ The workflow includes:
 - monitoring & support lifecycle
 
 <img width="6313" height="900" alt="Enterprise CCM Workflow using OpenText Exstream and Cloud-Native Platforms" src="https://github.com/user-attachments/assets/f9d56f57-299d-457b-baa7-866b0b0ecc3b" />
+
 ---
+
 # 🔄 Exstream Cloud-Native Communication Flow
 This workflow illustrates cloud-native communication processing through API orchestration, authentication layers, composition engines, template repositories, output generation, and customer delivery channels.
 
@@ -117,7 +125,9 @@ The architecture demonstrates:
 - customer delivery handling
 
 <img width="4908" height="129" alt="Exstream Cloud-Native Communication Flow" src="https://github.com/user-attachments/assets/303a539b-0709-4bc9-b9c1-df1ffedd9283" />
+
 ---
+
 # 📄 OpenText Exstream Empower Creation & Fulfillment Workflow
 This workflow demonstrates the lifecycle of interactive document creation and fulfillment processing using OpenText Exstream Empower.
 
@@ -132,6 +142,7 @@ The workflow includes:
 - customer delivery workflow
 
 <img width="7199" height="586" alt="OpenText Exstream Empower Creation   Fulfillment Workflow" src="https://github.com/user-attachments/assets/1b1fdc80-2c70-4b0c-909c-e750f772fc40" />
+
 ---
 # 🚀 Skills Demonstrated
 - OpenText Exstream
@@ -144,7 +155,9 @@ The workflow includes:
 - PDF / AFP Output Processing
 - Template Lifecycle Management
 - Multi-Cloud Environment Support
+
 ---
+
 ⚠ Disclaimer
 This repository is created for learning, architectural understanding, and professional portfolio demonstration purposes only.
 No proprietary client data, confidential business logic, internal implementations, or restricted organizational assets are included.
