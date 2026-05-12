@@ -159,9 +159,7 @@ The workflow includes:
 # ⚠ Disclaimer
 
 This repository is created for learning, architectural understanding, and professional portfolio demonstration purposes only.
-
 No proprietary client data, confidential business logic, internal implementations, or restricted organizational assets are included.
-
 All workflows and diagrams are conceptual representations based on enterprise CCM practices and OpenText Exstream platform knowledge.
 
 ---
